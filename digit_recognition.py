@@ -1,3 +1,5 @@
+
+#### A python program which could detect (and understand) handwritten digits and display them on the screen#####
 #Importing all the important models and install them if not installed on your device
 import cv2
 import numpy as np
